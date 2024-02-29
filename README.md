@@ -28,7 +28,7 @@ Dynamic and forward-thinking Engineer, pursuing Master of Science in Mechanical 
 
 ### Waterpoint Dataset
 - **Category:** Big Data and Machine Learning
-- **Description:**This repository contains the code and documentation for a Big Data project focused on predicting the operational condition of waterpoints. Leveraging Spark and Hadoop clusters, the project aims to utilize large-scale data processing capabilities to analyze waterpoint data efficiently. Data management involves PySpark and SQL for warehousing, enabling scalable data manipulation and analysis. Various categorical variable classifiers, including logistic regression, decision trees, and random forest, are applied to identify the optimal model for the dataset.
+- **Description:** This repository contains the code and documentation for a Big Data project focused on predicting the operational condition of waterpoints. Leveraging Spark and Hadoop clusters, the project aims to utilize large-scale data processing capabilities to analyze waterpoint data efficiently. Data management involves PySpark and SQL for warehousing, enabling scalable data manipulation and analysis. Various categorical variable classifiers, including logistic regression, decision trees, and random forest, are applied to identify the optimal model for the dataset.
 - **Repository:** [Waterpoint Dataset](https://github.com/Sampreeth98/Big_Data_Project)
 
 ### Mnist Dataset project
