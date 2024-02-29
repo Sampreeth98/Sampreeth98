@@ -14,7 +14,7 @@ Dynamic and forward-thinking Engineer, pursuing Master of Science in Mechanical 
 ### ROS2 Robotics Projects
 - **Category:** Robotic Operating System ROS
 - **Description:** A collection of diverse projects showcasing the capabilities of ROS2 in various robotic applications. Each project highlights different aspects of ROS2 functionality and integration with other technologies.
-- **[Repositories:](https://github.com/Sampreeth98/ROS2-Projects)**
+- **[Project Repository:](https://github.com/Sampreeth98/ROS2-Projects)**
   - Object Tracking with End Effector Camera : Currently Working on it
   - Alexa-controlled Robotic Arm
   - Manipulator Control with Computer Vision
