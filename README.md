@@ -15,11 +15,11 @@ Dynamic and forward-thinking Engineer, pursuing Master of Science in Mechanical 
 - **Category:** Robotic Operating System ROS
 - **Description:** A collection of diverse projects showcasing the capabilities of ROS2 in various robotic applications. Each project highlights different aspects of ROS2 functionality and integration with other technologies.
 - **[Repositories:](https://github.com/Sampreeth98/ROS2-Projects)**
-  - [Object Tracking with End Effector Camera : Currently Working on it]
-  - [Alexa-controlled Robotic Arm]
-  - [Manipulator Control with Computer Vision]
-  - [Gotta Catch em all: Turtle Spawner and Catching]
-  - [Simple ROS2 Programs]
+  - Object Tracking with End Effector Camera : Currently Working on it
+  - Alexa-controlled Robotic Arm
+  - Manipulator Control with Computer Vision
+  - Gotta Catch em all: Turtle Spawner and Catching
+  - Simple ROS2 Programs
     
 ### Cats vs dogs vs others
 - **Category:** AI and Machine Learning
