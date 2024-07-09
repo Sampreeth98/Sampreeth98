@@ -1,12 +1,12 @@
 # Hi there, I'm Sampreeth Radha Krishna! 👋
 
-Dynamic and forward-thinking Engineer, pursuing Master of Science in Mechanical Engineering with a specialization in AI, ML, and Robotics. Skilled in research, modeling, analysis and developing AI/ML models, computer vision, control, SLAM, and optimization. Enthusiastic in learning and contributing towards real and interesting projects.
+Robotic Software Engineer with over 2 years of experience in cloud automation and robotics. Developed projects using reinforcement learning and perception tools with C++, Python, and ROS2 for manipulation and mobile robots. Key accomplishments include integrating AWS for cloud solutions and optimizing industrial automation systems. Eager to leverage technical expertise and innovative problem-solving skills to advance industrial automation and robotics.
 
 ## About Me
 
-- 🔭 I’m currently working on Object Tracking with End Effector Camera: Ongoing project focusing on utilizing an end effector-mounted camera for object detection and implementing real-time tracking using high-speed YOLO to minimize processing delays.
 - 🌱 I’m currently learning and exploring new advancements in AI and Robotics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sampreethradhakrishna/)
+- 🌐 Portfolio Website: [sampreeth98.github.io](https://sampreeth98.github.io/)
 - 😄 Pronouns: He/Him
 
 ## Projects
